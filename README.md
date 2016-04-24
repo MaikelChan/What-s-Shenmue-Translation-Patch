@@ -1,6 +1,6 @@
 # What's Shenmue Translation Patch
 
-This is the source code and assets for the What's Shenmue translation patch.
+This is the source code and assets for the What's Shenmue translation patch. This will generate disc images in GDI or MDS/MDF format with CDDA audio tracks.
 
 ## Requirements
 
