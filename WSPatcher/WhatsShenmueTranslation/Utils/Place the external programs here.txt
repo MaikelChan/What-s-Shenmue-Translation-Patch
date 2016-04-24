@@ -1,8 +1,8 @@
 The following programs are needed in order to successfully patch What's Shenmue:
-- bin2iso.exe
-- buildgdi.exe
-- extract.exe
-- idxmaker.exe
-- mds4dc.exe
-- mkisofs.exe
-- xdelta.exe
+- bin2iso.exe: bin2iso tool made by jj1odm. Backup found at SiZiOUS's site: http://jj1odm.sizious.com/#dcpprip
+- buildgdi.exe: GDI Builder (Command line version) from Sappharad: http://projects.sappharad.com/tools/gdibuilder.html
+- extract.exe: Found in the Utilities folder found at the Self-Boot 45000LBA Data V1.4 kit by FamilyGuy: http://www.dreamcast.es/downloads.php?download_id=208
+- idxmaker.exe: Command-line version of IDX Creator, by Manic and SiZiOUS, found at the ShenTrad website: https://sourceforge.net/projects/shenmuesubs/files/IDX%20Creator/
+- mds4dc.exe: MDS4DC by SiZiOUS: http://sizious.emunova.net/download/?idsys=2&idcat=23
+- mkisofs.exe: mkisofs-md5, programmed by Jöerg Schilling and Wwashington. Recommended version: v2.01, Binary compiled with MinGW/GCC-4.4.5: https://sourceforge.net/projects/mkisofs-md5/
+- xdelta.exe: xdelta patching system by Josh MacDonald: http://xdelta.org/
