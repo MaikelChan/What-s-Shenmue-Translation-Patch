@@ -1,0 +1,8 @@
+The following programs are needed in order to successfully patch What's Shenmue:
+- bin2iso.exe
+- buildgdi.exe
+- extract.exe
+- idxmaker.exe
+- mds4dc.exe
+- mkisofs.exe
+- xdelta.exe
