@@ -7,8 +7,8 @@
     <ProjectGuid>{D55856B7-8C6C-474F-95B7-4C7BEA33276E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Parcheador_Whats_Shenmue</RootNamespace>
-    <AssemblyName>Parcheador Whats Shenmue</AssemblyName>
+    <RootNamespace>WSPatcher</RootNamespace>
+    <AssemblyName>WSPatcher</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -110,7 +110,7 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="data" />
+    <None Include="data" />
     <None Include="app.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

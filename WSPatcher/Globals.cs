@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Windows.Forms;
 
-namespace Parcheador_Whats_Shenmue
+namespace WSPatcher
 {
     static class Globals
     {

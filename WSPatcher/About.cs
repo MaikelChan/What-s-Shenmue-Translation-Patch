@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
-using Parcheador_Whats_Shenmue.Properties;
+using WSPatcher.Properties;
 
-namespace Parcheador_Whats_Shenmue
+namespace WSPatcher
 {
 	public partial class About : Form
 	{

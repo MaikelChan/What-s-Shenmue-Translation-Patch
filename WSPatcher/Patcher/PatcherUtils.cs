@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.IO;
 
-namespace Parcheador_Whats_Shenmue
+namespace WSPatcher
 {
     partial class Patcher
     {

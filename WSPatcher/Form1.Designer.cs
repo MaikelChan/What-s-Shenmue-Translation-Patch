@@ -1,4 +1,4 @@
-﻿namespace Parcheador_Whats_Shenmue
+﻿namespace WSPatcher
 {
     partial class Form1
     {
@@ -139,7 +139,7 @@
 			// 
 			// pictureBox1
 			// 
-			this.pictureBox1.Image = global::Parcheador_Whats_Shenmue.Properties.Resources.bg;
+			this.pictureBox1.Image = global::WSPatcher.Properties.Resources.bg;
 			this.pictureBox1.Location = new System.Drawing.Point(0, 0);
 			this.pictureBox1.Name = "pictureBox1";
 			this.pictureBox1.Size = new System.Drawing.Size(512, 136);

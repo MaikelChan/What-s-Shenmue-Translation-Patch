@@ -1,4 +1,4 @@
-﻿namespace Parcheador_Whats_Shenmue
+﻿namespace WSPatcher
 {
     partial class About
     {
@@ -47,7 +47,7 @@
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.BackgroundImage = global::Parcheador_Whats_Shenmue.Properties.Resources.credits_de;
+			this.BackgroundImage = global::WSPatcher.Properties.Resources.credits_de;
 			this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
 			this.ClientSize = new System.Drawing.Size(480, 529);
 			this.Controls.Add(this.button1);

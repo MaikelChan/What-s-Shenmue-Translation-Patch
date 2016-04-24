@@ -2,7 +2,7 @@
 using System.IO;
 using System.IO.Compression;
 
-namespace Parcheador_Whats_Shenmue
+namespace WSPatcher
 {
 	class Utils
 	{

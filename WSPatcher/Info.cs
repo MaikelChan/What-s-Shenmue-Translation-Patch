@@ -1,5 +1,5 @@
 ﻿
-namespace Parcheador_Whats_Shenmue
+namespace WSPatcher
 {
     static class GameInfo
     {

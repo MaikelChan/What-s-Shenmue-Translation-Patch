@@ -3,7 +3,7 @@ using System.IO;
 using System.Text;
 using System.Threading;
 
-namespace Parcheador_Whats_Shenmue
+namespace WSPatcher
 {
 	partial class Patcher
 	{

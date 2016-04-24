@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace Parcheador_Whats_Shenmue
+namespace WSPatcher
 {
     class AFS
     {

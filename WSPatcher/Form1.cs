@@ -3,7 +3,7 @@ using System.Reflection;
 using System.Windows.Forms;
 using Windows7.DesktopIntegration;
 
-namespace Parcheador_Whats_Shenmue
+namespace WSPatcher
 {
 	public partial class Form1 : Form
 	{
